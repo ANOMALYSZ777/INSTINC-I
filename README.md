@@ -3,6 +3,9 @@
 pkg update && pkg upgrade -y
 pkg install python -y
 pip install instaloader requests beautifulsoup4 colorama
+git clone https://github.com/ANOMALYSZ777/INSTIC-I
+cd INSTIC-I
+python instic-i.py
 ```
 
 # Recommanded to Use
@@ -12,8 +15,8 @@ pip install instaloader requests beautifulsoup4 colorama
 3. Accessing Additional Data
 4. Downloading Posts & Stories
 
-* User Agents & Proxy
-* maybe user agents and proxy is died
+* ! User Agents & Proxy
+* ! maybe user agents and proxy is died
 
 # Feature Osint
 * Username
